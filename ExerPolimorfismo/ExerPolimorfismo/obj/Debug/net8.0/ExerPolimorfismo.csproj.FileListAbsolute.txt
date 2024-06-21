@@ -1,0 +1,14 @@
+C:\Projeto C#\ExerPolimorfismo\ExerPolimorfismo\bin\Debug\net8.0\ExerPolimorfismo.exe
+C:\Projeto C#\ExerPolimorfismo\ExerPolimorfismo\bin\Debug\net8.0\ExerPolimorfismo.deps.json
+C:\Projeto C#\ExerPolimorfismo\ExerPolimorfismo\bin\Debug\net8.0\ExerPolimorfismo.runtimeconfig.json
+C:\Projeto C#\ExerPolimorfismo\ExerPolimorfismo\bin\Debug\net8.0\ExerPolimorfismo.dll
+C:\Projeto C#\ExerPolimorfismo\ExerPolimorfismo\bin\Debug\net8.0\ExerPolimorfismo.pdb
+C:\Projeto C#\ExerPolimorfismo\ExerPolimorfismo\obj\Debug\net8.0\ExerPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto C#\ExerPolimorfismo\ExerPolimorfismo\obj\Debug\net8.0\ExerPolimorfismo.AssemblyInfoInputs.cache
+C:\Projeto C#\ExerPolimorfismo\ExerPolimorfismo\obj\Debug\net8.0\ExerPolimorfismo.AssemblyInfo.cs
+C:\Projeto C#\ExerPolimorfismo\ExerPolimorfismo\obj\Debug\net8.0\ExerPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Projeto C#\ExerPolimorfismo\ExerPolimorfismo\obj\Debug\net8.0\ExerPolimorfismo.dll
+C:\Projeto C#\ExerPolimorfismo\ExerPolimorfismo\obj\Debug\net8.0\refint\ExerPolimorfismo.dll
+C:\Projeto C#\ExerPolimorfismo\ExerPolimorfismo\obj\Debug\net8.0\ExerPolimorfismo.pdb
+C:\Projeto C#\ExerPolimorfismo\ExerPolimorfismo\obj\Debug\net8.0\ExerPolimorfismo.genruntimeconfig.cache
+C:\Projeto C#\ExerPolimorfismo\ExerPolimorfismo\obj\Debug\net8.0\ref\ExerPolimorfismo.dll
